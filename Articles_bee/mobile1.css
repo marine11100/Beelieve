@@ -1,0 +1,36 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+select{
+    width: 200px;
+}
+nav{
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+.nav_premier{
+    display: flex;
+    flex-direction: column;
+}
+figure{
+    display: flex;
+}
+.ruche{
+    width: 200px;
+    height: 150px;
+    margin-right: 10px;
+}
+figcaption{
+    margin-top: -20px;
+    font-size: 13px;
+}
+.disp{
+    display: flex;
+    flex-direction: column-reverse;
+}
+.container{
+    width: auto;
+}
