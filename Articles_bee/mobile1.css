@@ -3,13 +3,14 @@ body{
     background-size: cover;
 }
 select{
-    width: 200px;
+    width: 300px;
 }
 nav{
     width: auto;
     display: flex;
     flex-direction: column;
     position: relative;
+    font-size: 30px
 }
 .nav_premier{
     display: flex;
