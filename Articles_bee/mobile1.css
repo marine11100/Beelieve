@@ -4,13 +4,14 @@ body{
 }
 select{
     width: 300px;
+    margin-bottom: 40px;
 }
 nav{
     width: auto;
     display: flex;
     flex-direction: column;
     position: relative;
-    font-size: 30px
+    font-size: 25px;
 }
 .nav_premier{
     display: flex;
@@ -32,4 +33,7 @@ figcaption{
 }
 .container{
     width: auto;
+}
+.centre{
+    padding: 20px;
 }
